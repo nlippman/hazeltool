@@ -1,4 +1,4 @@
 hazeltool
 =========
 
-Some scripts and tools for working the Hazel 
+Some scripts and tools for working with Hazel.
